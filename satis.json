@@ -1,0 +1,8 @@
+{
+    "name": "My Repository",
+    "homepage": "http://packages.example.org",
+    "repositories": [
+        { "type": "vcs", "url": "https://github.com/born-group/flatshipping.git" }
+    ],
+    "require-all": true
+}
